@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">praktika</string>
+    <string name="login">Введите Имя</string>
+    <string name="password">Введите пароль</string>
+</resources>
